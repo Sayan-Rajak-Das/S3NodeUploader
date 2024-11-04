@@ -36,7 +36,7 @@ required keys:
 
 ## Usage
 
- 1. Start the application using: bash node app.js
+ 1. Start the application using:  ==node app.js==
 
  2. Open your browser and navigate to http://localhost:3000.
 
