@@ -25,7 +25,8 @@ machine using:
 5. Configure your AWScredenti als by creating a .env file and adding the
 required keys:
 
-     > makefile AWS_ACCESS_KEY_ID=your_access_key\ AWS_SECRET_ACCESS_KEY=your_secret_key
+     > makefile AWS_ACCESS_KEY_ID=your_access_key
+     >  AWS_SECRET_ACCESS_KEY=your_secret_key
 
 ## Images 
 
