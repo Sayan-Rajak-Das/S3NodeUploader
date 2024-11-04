@@ -1,9 +1,9 @@
 # S3 Node Uploader
 
 ## Description S3 Node Uploader is a Node.js application that allows
-users to upload files seamlessly to an Amazon S3 bucket. This project
-simplifies the process of managing and uploading files to cloud storage,
-making it efficient for developers and users who work with AWS S3.
+## users to upload files seamlessly to an Amazon S3 bucket. This project
+## simplifies the process of managing and uploading files to cloud storage,
+## making it efficient for developers and users who work with AWS S3.
 
 ## Installation Instructions 
 
