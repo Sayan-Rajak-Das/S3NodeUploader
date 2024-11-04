@@ -10,7 +10,7 @@ making it efficient for developers and users who work with AWS S3.
 1. Clone the repository to your local
 machine using:
 
-  `git clonehttps://github.com/Sayan-Rajak-Das/S3NodeUploader.git`
+    `git clonehttps://github.com/Sayan-Rajak-Das/S3NodeUploader.git`
 
 3. Navigate to the project directory:
    
@@ -38,7 +38,9 @@ AWS_SECRET_ACCESS_KEY=your_secret_key`
 
  1. Start the application using: bash node app.js
 
- 2. Open your browser and navigate to http://localhost:3000. 3. Follow
+ 2. Open your browser and navigate to http://localhost:3000.
+
+ 3. Follow
     the instructions on the web interface to select and upload files to your
     configured S3 bucket.
 
