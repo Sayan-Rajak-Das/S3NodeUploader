@@ -8,8 +8,8 @@ making it efficient for developers and users who work with AWS S3.
 ## Installation Instructions 1. Clone the repository to your local
 machine using:
 
-```bash git clone
-https://github.com/Sayan-Rajak-Das/S3NodeUploader.git```
+`bash git clone
+https://github.com/Sayan-Rajak-Das/S3NodeUploader.git`
 
 2. Navigate to the project directory: \`\`\`bash cd S3NodeUploader\`\`\`
 
