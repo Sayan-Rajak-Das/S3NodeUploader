@@ -28,15 +28,15 @@ required keys:
 
 ## Images 
 
- !\[Initial Form\](./images/initial-form.png) 
+ ![Initial Form](./images/initial-form.png) 
  
- !\[Form Filled\](./images/form-filled.png) 
+ ![Form Filled](./images/form-filled.png) 
  
- !\[Upload Success\](./images/upload-success.png)
+ ![Upload Success](./images/upload-success.png)
 
 ## Usage
 
- 1. Start the application using:  ==node app.js==
+ 1. Start the application using:  `node app.js`
 
  2. Open your browser and navigate to http://localhost:3000.
 
