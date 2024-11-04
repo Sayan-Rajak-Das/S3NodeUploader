@@ -10,7 +10,7 @@ making it efficient for developers and users who work with AWS S3.
 1. Clone the repository to your local
 machine using:
 
-    `git clonehttps://github.com/Sayan-Rajak-Das/S3NodeUploader.git`
+   `git clonehttps://github.com/Sayan-Rajak-Das/S3NodeUploader.git`
 
 3. Navigate to the project directory:
    
@@ -23,8 +23,8 @@ machine using:
 5. Configure your AWScredenti als by creating a .env file and adding the
 required keys:
 
-     `makefile AWS_ACCESS_KEY_ID=your_access_key
-AWS_SECRET_ACCESS_KEY=your_secret_key`
+     `makefile AWS_ACCESS_KEY_ID=your_access_key`
+     `AWS_SECRET_ACCESS_KEY=your_secret_key`
 
 ## Images 
 
