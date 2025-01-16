@@ -12,7 +12,7 @@ making it efficient for developers and users who work with AWS S3.
 1. Clone the repository to your local
 machine using:
 
-    > git clonehttps://github.com/Sayan-Rajak-Das/S3NodeUploader.git
+    > git clone https://github.com/Sayan-Rajak-Das/S3NodeUploader.git
 
 3. Navigate to the project directory:
    
